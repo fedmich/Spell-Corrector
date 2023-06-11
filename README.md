@@ -14,6 +14,8 @@ banls	banks
 ```
 
 There is a timer logic added to "delay" and not to interrupt the user's thoughts and typing process.
-selection of cursor and taken in consideration so, user doesn't notice its being helped, "it just works"
+selection of cursor and taken in consideration.
+
+User doesn't notice its being helped, the feature "just works" and applies the correction.
 
     .Selstart , Sellength , etc
