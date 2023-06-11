@@ -1,0 +1,4 @@
+bganks	banks
+bbank	banks
+bbnka	banks
+banls	banks
